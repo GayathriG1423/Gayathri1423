@@ -22,10 +22,9 @@ I'm a full stack developer.
 </div>
 
 
-
-<!-- ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri1423&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- -->
+<!-- 
+### :fire: My Stats :
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayathri1423&show_icons=true&theme=dark) -->
 <!-- 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
