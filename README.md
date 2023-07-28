@@ -5,7 +5,7 @@
 # Hi, I'm Gayathri Gopinath! 👋
 - :telescope: I’m working as a full stack developer and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: 
 
 
 
